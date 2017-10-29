@@ -1,6 +1,6 @@
 <h1>Weather App</h1>
-<h3>Using the Yahoo Weather API</h3>
-<h3>Realized by Stijn Stevens for Mobile Development I.</h3>
+<p>Using the Yahoo Weather API<p>
+<strong>Realized by Stijn Stevens for Mobile Development I.<strong>
 <h2>Brief Summary</h2>
 <p>This app displays the weather for 8 predefined cities in the world. Adding more only requires the city name and the WOEID
 It displays metrics such as temperature, condition, wind speed and direction and humidity. A five-day forecast is also provided at the bottom of the card.</p>
