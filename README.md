@@ -14,7 +14,7 @@ It displays metrics such as temperature, condition, wind speed and direction and
 <h2>Known bugs and goofs</h2>
 <ul>
   <li>Goof: The fallback icon for forecast and condition is the cloud, which isn't always true</li>
-  <li>Goof: The wind direction isn't very accurate. It shows either N, E, S and W. No intermediary values</li>
+  <li>Bug: Wind direction incorrect</li>
 </ul>
 
 <h2>Used resources</h2>
