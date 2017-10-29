@@ -1,0 +1,72 @@
+.demo-card-square.mdl-card {
+    width: 320px;
+    height: 320px;
+    margin: 20px;
+    float: left;
+}
+/*backgrounds*/
+.bg-cloudy {
+    background: url('../background-images/Cloudy.jpg') bottom right 10% no-repeat #46B6AC;
+}
+.bg-mostlycloudy {
+    background: url('../background-images/MostlyCloudy.jpg') bottom right 10% no-repeat #46B6AC;
+}
+.bg-sunny {
+    background: url('../background-images/Sunny.jpg') bottom right 10% no-repeat #46B6AC;
+}
+.bg-rain {
+    background: url('../background-images/Rain.jpg') bottom right 10% no-repeat #46B6AC;
+}
+.bg-snow {
+    background: url('../background-images/Snow.jpg') bottom right 10% no-repeat #46B6AC;
+}
+.bg-thunderstorm {
+    background: url('../background-images/Thunderstorm.jpg') bottom right 10% no-repeat #46B6AC;
+}
+
+.demo-card-square > .mdl-card__title {
+    color: #FFF;
+    font-weight: 100 !important;
+}
+.demo-list-icon {
+    width: 300px;
+}
+.weather-card__list{
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+.info-list {
+    width: 50%;
+    float: left;
+}
+.weather-card__list-value {
+    margin-right: 7%;
+    float: right;
+}
+.forecast-list {
+    width: 100%;
+    margin: auto;
+    margin-top: 8px;
+}
+.forecast-list__item {
+    text-align: center;
+    width: 20%;
+    float: left;
+}
+.forecast-list__item-p {
+    line-height: 0.3em !important;
+}
+.forecast-list__item-icon {
+    margin-top: -1.1em;
+    padding: 15%;
+    width: 50%;
+}
+.weather-card__quick-info {
+    margin-left: 10px;
+}
+.weather-card__quick-info-icon {
+    width: 1.2em;
+    padding: 0;
+    color: white;
+}
