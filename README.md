@@ -21,6 +21,6 @@ It displays metrics such as temperature, condition, wind speed and direction and
 <ul>
   <li>https://getmdl.io for card template</li>
   <li>http://adamwhitcroft.com/climacons/ for weather icons</li>
-  <li>http://woeid.rosselliot.co.nz/lookup/sydney for looking up WOEIDs</li>
+  <li>http://woeid.rosselliot.co.nz/lookup/ for looking up WOEIDs</li>
   <li>Images from various sources, if I've used your image and you want it taken down, let me know.</li>
 </ul>
